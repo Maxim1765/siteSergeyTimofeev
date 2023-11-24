@@ -9,9 +9,9 @@ body {
     margin: 0 auto;
 }
 
-.mainBox {
+.mainBox, .container {
     max-width: 1536px;
-    border: 1px solid red;
+ /*   border: 1px solid red;*/
     margin: 0 auto;
 }
 

@@ -38,6 +38,12 @@
 
 .section4 h2{
     text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+.section4 p{
+    font-weight: 300;
+    color:#6B7280;
 }
 .leftArrow ,.rightArrow{
     position: absolute;

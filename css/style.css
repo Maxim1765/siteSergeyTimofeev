@@ -2,7 +2,6 @@ body {
     margin: 0;
     background-color: #E5E7EB;
     font-family: Formular;
-
 }
 .rootBox {
     width: 100%;
@@ -15,11 +14,10 @@ body {
  /*   border: 1px solid red;*/
     margin: 0 auto;
 }
-/*
+
 @font-face {
 font-family: "FormularLight";
 src: url("../formularLight/FormularLight.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
-*/

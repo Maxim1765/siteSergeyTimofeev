@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: #E5E7EB;
+
 }
 .rootBox {
     width: 100%;
@@ -8,8 +9,9 @@ body {
     margin: 0 auto;
 }
 
-.mainBox , .container {
+.mainBox {
     max-width: 1536px;
+    border: 1px solid red;
     margin: 0 auto;
 }
 
@@ -19,4 +21,3 @@ src: url("../formularLight/FormularLight.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
-.

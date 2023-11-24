@@ -45,17 +45,25 @@
     font-weight: 300;
     color:#6B7280;
 }
-.leftArrow ,.rightArrow{
+.section4 .leftArrow ,.section4 .rightArrow{
     position: absolute;
     top:160px;
+    
 }
-.leftArrow {
+.section4 .leftArrow:hover{
+    cursor:pointer;
+}
+.section4 .rightArrow:hover{
+    cursor:pointer;
+}
+
+.section4 .leftArrow {
     left:-90px;
 }
-.rightArrow {
+.section4 .rightArrow {
     left:680px;
 }
-.icon_right{
+.section4 .icon_right{
     position: absolute;
     right: 18px;
     bottom: 8px;

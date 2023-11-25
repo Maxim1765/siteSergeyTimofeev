@@ -30,7 +30,8 @@
 /* border: 1px solid violet; */
 width: 400px;
 display: inline-block;
-vertical-align: top;  
+vertical-align: top;
+    margin-left: 130px;
 }
 .section-right p{
     text-align: center;

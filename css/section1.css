@@ -1,7 +1,9 @@
 .section{
-    width: 1536px;
+    max-width: 1536px;
     margin: 0px auto;
     font-family: Formular;
+    display: flex;
+    justify-content: center;
 }
 .section-left{
     /* border: 1px solid red; */

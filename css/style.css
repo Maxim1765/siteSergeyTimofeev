@@ -13,6 +13,7 @@ body {
     max-width: 1536px;
  /*   border: 1px solid red;*/
     margin: 0 auto;
+    box-sizing: border-box;
 }
 
 @font-face {

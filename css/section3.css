@@ -1,0 +1,56 @@
+.section3 h1 {
+    width: 340px;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 900;
+    margin: auto;
+}
+.section3 #garant {
+    width: 700px;
+    height: 72px;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin: 12px auto;
+}
+.section3 .sertificate {
+    margin-top: 24px;
+}
+.section3 .russia, .usa, .china, .gb {
+    width: 366px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 18px;
+    margin-bottom: 28px;
+}
+.section3 .gb {
+    margin-right: 0px;
+}
+.section3 img {
+    width: 280px;
+    height: 375px;
+}
+.section3 .text {
+    text-align: center;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 900;
+    margin-top: 4px;
+}
+.section3 .docs {
+    width: 259px;
+    color: #F9FAFB;
+    background-color: #8B5CF6;
+    padding: 16px 28px;
+    border-radius: 12px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    margin-top: 36px;
+}
+.section3 .buttom_section3 {
+    width: 100%;
+    text-align: center;
+}

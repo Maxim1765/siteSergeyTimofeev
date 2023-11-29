@@ -1,0 +1,112 @@
+.footerBlock {
+    width: 100%;
+    background-color: #111827;
+}
+
+.mainBlockFooter {
+    margin: 0 auto;
+    max-width: 1536px;
+    padding: 40px 0 40px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoSVG {
+    display: inline-block;
+}
+
+.logoFooter{
+    display: inline-block;
+}
+
+/*.logoFooter span {*/
+/*    line-height: 100px;*/
+/*}*/
+
+/*.logoFooter span {*/
+/*    line-height: 80px;*/
+/*}*/
+
+.footerMainMenu {
+ display: inline-block;
+    /*border: 1px solid red;*/
+}
+
+.footerMainMenu div {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    word-wrap: break-word;
+    line-height: 98px;
+
+}
+
+.footerMainMenu div a {
+    text-decoration: none;
+    color: #F9FAFB;
+}
+
+
+.telFooter {
+    display: inline-block;
+    /*border: 1px solid red;*/
+}
+
+.tel {
+    color: #F9FAFB;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 40px;
+}
+
+.telText {
+    color: #F9FAFB;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.logoText {
+    display: inline-block;
+    color: #F9FAFB;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    word-wrap: break-word
+}
+
+.rights {
+    color: #F9FAFB;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    word-wrap: break-word;
+}
+
+.bottomFooter {
+    max-width: 1536px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text1, .text2 {
+    display: inline-block;
+}
+
+.text1 {
+    color: #4B5563;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 16px;
+    word-wrap: break-word;
+}
+
+.text2 {
+    color: #6B7280;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    word-wrap: break-word;
+}

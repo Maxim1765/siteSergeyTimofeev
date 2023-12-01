@@ -91,3 +91,16 @@ h1{
 .div_2{
     padding-top: 60px;
 }
+.div_1, .div_2 {
+position: relative;
+}
+.email {
+position: absolute;
+top: 0;
+left: 0;
+}
+.topic {
+position: absolute;
+right: 0;
+
+}

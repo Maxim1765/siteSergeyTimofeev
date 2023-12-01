@@ -68,13 +68,19 @@
 }
 
 .logoText {
-    display: inline-block;
+    display:inline-flex;
+    align-items: center;
     color: #F9FAFB;
     font-size: 24px;
     font-weight: 900;
     line-height: 32px;
     word-wrap: break-word
 }
+
+.logoText span {
+    display: inline-block;
+}
+
 
 .rights {
     color: #F9FAFB;

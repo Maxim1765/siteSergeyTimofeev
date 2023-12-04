@@ -22,3 +22,8 @@ src: url("../formularLight/FormularLight.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
+
+.logo {
+    display: inline-flex;
+    align-items: center;
+}
